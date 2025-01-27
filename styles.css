@@ -1,0 +1,98 @@
+/* CSS INDEX */
+
+.head1 {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.box {
+    border: 3px solid green;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: rgb(129, 216, 216);    
+}
+
+.box2 {
+    border: 3px solid green;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: rgb(159, 183, 183);    
+}
+
+.recipehead {
+    text-align: center;
+}
+
+/* .recipe-list {
+    text-align: center;
+    text-align: justify;
+    font-size: bold;
+} */
+
+/* CSS FOR RECIPES */
+
+body {
+    background-color: beige;
+}
+
+.header1 {
+    border: 3px solid;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.font-style {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.description {
+    border: 3px solid;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: bisque;
+}
+
+.ingredients {
+    border: 3px solid;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    padding-bottom: 30px;
+    background-color: bisque;
+}
+
+.ingredients-title {
+    text-align: center;
+}
+
+.steps {
+    border: 3px solid;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    padding-bottom: 30px;
+    background-color: bisque;
+}
+
+.steps-title {
+    text-align: center;
+}
+
+input {
+    font-size: large;
+    color: rgb(40, 43, 60);
+    text-align: center;
+    padding: 20px;
+    font-weight: bold ;
+}
